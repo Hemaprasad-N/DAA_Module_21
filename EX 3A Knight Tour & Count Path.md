@@ -18,9 +18,9 @@ a
 6. If target is reached, return the number of steps.
 ## Program:
 
-Developed by:  Kishore S
+Developed by: HEMAPRASAD N
 
-Register Number:  212222240050
+Register Number:  212222040054
 
 ```python
 class cell:
